@@ -56,7 +56,7 @@ namespace ItemPrinterDeGacha.WinForms.Controls
             Count.AutoSizeMode = DataGridViewAutoSizeColumnMode.AllCells;
             dataGridViewCellStyle1.Alignment = DataGridViewContentAlignment.MiddleCenter;
             Count.DefaultCellStyle = dataGridViewCellStyle1;
-            Count.HeaderText = "Count";
+            Count.HeaderText = "数量";
             Count.Name = "Count";
             Count.ReadOnly = true;
             Count.Width = 65;
@@ -64,7 +64,7 @@ namespace ItemPrinterDeGacha.WinForms.Controls
             // IMG
             // 
             IMG.AutoSizeMode = DataGridViewAutoSizeColumnMode.AllCells;
-            IMG.HeaderText = "IMG";
+            IMG.HeaderText = "图片";
             IMG.Name = "IMG";
             IMG.ReadOnly = true;
             IMG.Width = 35;
@@ -72,7 +72,7 @@ namespace ItemPrinterDeGacha.WinForms.Controls
             // ItemName
             // 
             ItemName.AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
-            ItemName.HeaderText = "Name";
+            ItemName.HeaderText = "名称";
             ItemName.Name = "ItemName";
             ItemName.ReadOnly = true;
             // 

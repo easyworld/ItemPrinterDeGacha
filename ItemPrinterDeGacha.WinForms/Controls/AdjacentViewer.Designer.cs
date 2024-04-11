@@ -124,7 +124,7 @@ namespace ItemPrinterDeGacha.WinForms.Controls
             // 
             CB_Mode.DropDownStyle = ComboBoxStyle.DropDownList;
             CB_Mode.FormattingEnabled = true;
-            CB_Mode.Items.AddRange(new object[] { "Regular", "ItemBonus", "BallBonus" });
+            CB_Mode.Items.AddRange(new object[] { "正常", "道具２倍", "稀有精灵球" });
             CB_Mode.Location = new Point(335, 6);
             CB_Mode.Name = "CB_Mode";
             CB_Mode.Size = new Size(92, 23);

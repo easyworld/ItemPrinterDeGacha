@@ -79,7 +79,7 @@ namespace ItemPrinterDeGacha.WinForms.Controls
             // 
             CB_Seek.DropDownStyle = ComboBoxStyle.DropDownList;
             CB_Seek.FormattingEnabled = true;
-            CB_Seek.Items.AddRange(new object[] { "MostSingle", "MostSpecial" });
+            CB_Seek.Items.AddRange(new object[] { "单道具最大", "最多特殊奖励" });
             CB_Seek.Location = new Point(194, 6);
             CB_Seek.Name = "CB_Seek";
             CB_Seek.Size = new Size(100, 23);
