@@ -6,5 +6,13 @@
   "F1_Time": "目标时间: {0}",
   "F1_Seed": "Seed: {0}",
   "F2_CountItem": "x{0} {1}",
-  "F3_ModeAtTimeSeed": "{0} @ {1} -- {2}"
+  "F3_ModeAtTimeSeed": "{0} @ {1} -- {2}",
+  "Others": {
+    "PrintMode.Regular": "正常",
+    "PrintMode.ItemBonus": "道具２倍",
+    "PrintMode.BallBonus": "稀有精灵球",
+    "SearchModeRegular.MaxSpecificItem": "最多指定道具",
+    "SearchModeBall.MaxSpecificItem": "最多指定道具",
+    "SearchModeBall.MaxValuables": "最多稀有奖励"
+  }
 }
